@@ -1,4 +1,4 @@
-# Deep Learning Fake News Lab: Analyzing Covid-19 Myths
+# Deep Learning Fake News Lab: Analyzing Covid-19 News
 
 ## Project Overview
 
